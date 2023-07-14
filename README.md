@@ -1,5 +1,5 @@
 # Projeto-Sistemas-Digitais
-Atividade desenvolvida por mim para disciplina de Laboratório de Sistemas Digitais (ELE0518)
+Atividade desenvolvida por mim para disciplina de Laboratório de Sistemas Digitais (ELE0518).
 
 Nessa conjuntura, o projeto envolve a temática de circuitos lógicos, enfatizando o uso de componentes como registradores, contadores, MUX (multiplexadores), somadores, comparadores, etc.
 
