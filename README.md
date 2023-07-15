@@ -5,7 +5,7 @@ Nessa conjuntura, o projeto envolve a temática de circuitos lógicos, enfatizan
 
 Em suma, o trabalho está associado a construção de um relógio digital, bem como uma máquina de venda de refrigerantes, usando a software QUARTUS II - Intel.
 
-  - Relógio digital;
+  - Relógio Digital;
   - Máquina de Vendas de Refrigerante.
 
 Para uma melhor visualização dos documentos em formato PDF, faça o download deles!
